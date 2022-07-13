@@ -1,2 +1,2 @@
 # calc-with-javascript
-created calculator with good desing with using bootstrap and css
+created calculator with good desing by using bootstrap and css
